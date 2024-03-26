@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653842050 source:c:\users\user\desktop\projekt metody numeryczne\programy\dxd\main.cpp
+	<iostream>
+	<math.h>
+

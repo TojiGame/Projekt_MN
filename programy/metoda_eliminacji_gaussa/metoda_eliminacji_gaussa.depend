@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648550289 source:c:\users\student\documents\kacper_szczerba_2semestr1rok\lab6.29.03.2022\eliminacja gaussa\metoda_eliminacji_gaussa\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+	<stdlib.h>
+

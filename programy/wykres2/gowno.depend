@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653679462 source:c:\users\user\desktop\projekt metody numeryczne\programy\gowno\main.cpp
+	<iostream>
+	<math.h>
+
